@@ -1,3 +1,4 @@
 # Sam Skolnekovich
 # CSCI3308_GitVersionControl
-#SAm SKolnekovich
+#Sam SKolnekovich
+Partner: <Justin Schiller>
